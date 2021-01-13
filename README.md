@@ -2,6 +2,7 @@ Create an app using the GitHub Public API
 built an app using plain JavaScript, without frontend framework, interfaced with the GitHub public REST API to..
 create a form.  wait for the user to type in a GitHub username, and ask to the GitHub API the user’s public information then  show a user card.
 This is a project made when following https://thejsbootcamp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
